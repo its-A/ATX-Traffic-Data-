@@ -1,7 +1,7 @@
 #data was obtained from city of austin data portal
 #https://data.austintexas.gov/Transportation-and-Mobility/Real-Time-Traffic-Incident-Reports/dx9v-zd7x/data_preview
 
-import matplotlib.pyplot as plt
+import matplotlib as plt
 import pandas as pd
 import seaborn as sns
 
